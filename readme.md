@@ -8,7 +8,7 @@ Construite avec **React (TSX)**, **Leaflet**, et l’API **OpenWeatherMap**.
 ## 🧑‍💻 Structure du projet 
 
 ```bash
-nom-du-repo/
+TP-OpenWeatherMap/
 ├── src/
 │   ├── App.tsx          # Composant principal React
 │   ├── App.css          # Style global
